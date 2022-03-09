@@ -1,2 +1,2 @@
-Instead of using vgg pretrained model use ** vgg_bn ** pretrained model, which is the version with batch normalization, present in the original architecture.
+Instead of using "vgg16" pretrained model use "vgg16_bn" pretrained model, which is the version with batch normalization, present in the original architecture.
 Pretrained model available on : https://pytorch.org/vision/stable/models.html
